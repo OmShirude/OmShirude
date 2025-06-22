@@ -10,14 +10,14 @@
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/om-shirude/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:om.shirude03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://medium.com/@your-medium" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="https://medium.com/@om.shirude03" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
@@ -25,10 +25,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔬 Exploring **multi-layered agents in LLMs**
-- ♟️ Chess enthusiast, designing a project around the game (in discovery phase)
-- 📦 Enjoy working on **ETL pipelines**, and using structured data for AI/LLM-powered projects
+- 🔬 Currently exploring **multi-layered agents in LLMs**
+- ♟️ Chess enthusiast, designing a project for the game (objective still in discovery)
+- 📦 Enjoy building **ETL pipelines** and using that data to create LLM-based tools and analytics
 - 🎓 **Bachelor of Engineering** in *Artificial Intelligence and Data Science Engineering*
+- 🚀 Career goal: Build impactful tools using cutting-edge language models and AI frameworks
 
 ---
 
@@ -49,22 +50,22 @@ Python, SQL, R, HTML, CSS, JavaScript
 
 ### 🔹 [SmartSlot](https://smartslot.vercel.app/) — AI-Driven Delivery Scheduling System for India Post  
 *Sept 2024*  
-An AI-powered logistics solution enabling users to select delivery slots via WhatsApp/SMS.  
-Built with **Next.js**, **TailwindCSS**, and scalable API backend. Designed to optimize last-mile logistics.
+An AI-powered logistics tool enabling users to select or modify delivery slots via WhatsApp/SMS.  
+Built with **Next.js**, **TailwindCSS**, and scalable APIs — designed for last-mile delivery optimization.
 
 ---
 
 ### 🔹 Autoviz: From Text to Dashboards  
 Final Year Project  
-AI system that converts **natural language prompts into dashboards** using:
-- **SQLAlchemy** for dynamic schema generation  
-- **LLM (OpenAI API)** for payload creation  
-- **Apache Superset** for dashboard visualization
+An AI tool that turns **natural language queries into data dashboards**, using:
+- **SQLAlchemy** for schema generation  
+- **LLM** for query and payload building  
+- **Apache Superset** for visualization
 
 ---
 
-### 🔹 LangGraph-Based Tool (WIP)  
-Exploring **LangGraph** to solve a real-world LLM orchestration problem. Currently in problem definition & system design phase.
+### 🔹 LangGraph Project (WIP)  
+Currently designing a project to **solve a real-world orchestration problem** using LangGraph, with dynamic agent routing and modular LLM pipelines.
 
 ---
 
