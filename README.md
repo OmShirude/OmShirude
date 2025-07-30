@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Om Shirude</span></h1>
 
 <p align="center">
-  🧠 AI Intern • 👨‍🎓 B.E. in AI & Data Science • 🏙️ Pune, India <br>
+  🧠 AI Intern • 👨‍🎓 B.E. - AI & Data Science • 🏙️ Pune, India <br>
   Passionate about building intelligent, scalable systems using modern AI tools.
 </p>
 
