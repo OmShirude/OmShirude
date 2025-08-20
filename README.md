@@ -73,6 +73,7 @@ Currently designing a project to **solve a real-world orchestration problem** us
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmShirude&show_icons=true&theme=radical" width="40%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmShirude&layout=compact&theme=radical" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmShirude&show_icons=true&theme=radical&count_private=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmShirude&layout=compact&theme=radical&langs_count=6&exclude_repo=" width="45%">
 </p>
+
